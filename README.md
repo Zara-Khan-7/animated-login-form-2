@@ -10,6 +10,6 @@
 
 📫 How to reach me zaara.khan1795.zy@gmail.com
 
-📄 For source code, contact me at linkedIn: www.linkedin.com/in/zara-yousuf-7081751b6
+📄 For full source code, contact me at linkedIn: www.linkedin.com/in/zara-yousuf-7081751b6
 
 🔗 Vercel link: https://login-form-2-iota.vercel.app/
